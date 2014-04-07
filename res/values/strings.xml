@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Do</string>
+    <string name="edit_message"></string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="Log">Log</string>
+    <string name="username">Username</string>
+  	<string name="password">Password</string>
+  	<string name="sign_up">Sign Up</string>
+  	<string name="sign_in">Sign In</string>
+  	 <string name="dont_have_an_account">Sign up for an account</string>
+  	 <string name="already_have_an_account">Log in</string>
+  	<string name="Login">Loggin</string>
+  	<string name="signUp">siggnUp</string>
+  	    
+
+</resources>
